@@ -13,9 +13,9 @@
 Imagine you go to an oral exam and the teacher ask for this program first, it is not the best way to start your day with 😅, and it took me some time to understand how it works.
 
 # How-it-works
-The Main method is called `Replace(string word, char replace, char replaceWith, int occurrence)` first parameter is the string you want to replace char in, second is what you want to replace, third is what you want to replace with, last one is the number that of occurrence that will be changed, hmmmmm not clear yet, here are some examples.
+The main method is called `Replace(string word, char replace, char replaceWith, int occurrence)` first parameter is the string you want to replace char in, second is what you want to replace, third is what you want to replace with, last one is the number of that occurrence that will be changed, hmmmmm not clear yet, here are some examples.
 
-You send to `Replace()` these parameteres ("apple", 'p', 'b', 1) the output will be "abble", because the int is 1, the first occurance of the letter p will be changed (not clear enough?) here is another one, these are the new parameters ("apppppple", 'p', 'b', 2) output this time will be "apbpbpble", now it make sense.
+You send to `Replace()` these parameteres ("apple", 'p', 'b', 1) the output will be "abble", because the int is 1, the first occurance of the letter 'p' will be changed (not clear enough?) here is another one, these are the new parameters ("apppppple", 'p', 'b', 2) output this time will be "apbpbpble", now it make sense.
 
 
 It was required to have two custom made exceptions first one `myIllegalParamException()` if the string input is null and `myNegativeParamException()` if the int is less than zero.
