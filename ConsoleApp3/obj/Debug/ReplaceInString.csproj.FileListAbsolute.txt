@@ -1,0 +1,13 @@
+D:\Projects\__Programming_Projects\Uni's\ReplaceInString\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Projects\__Programming_Projects\Uni's\ReplaceInString\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Projects\__Programming_Projects\Uni's\ReplaceInString\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Projects\__Programming_Projects\Uni's\ReplaceInString\ConsoleApp3\obj\Debug\ReplaceInString.csproj.CoreCompileInputs.cache
+D:\Projects\__Programming_Projects\Uni's\ReplaceInString\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Projects\__Programming_Projects\Uni's\ReplaceInString\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\Projects\__Programming_Projects\hobbyist\ReplaceInString\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Projects\__Programming_Projects\hobbyist\ReplaceInString\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Projects\__Programming_Projects\hobbyist\ReplaceInString\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Projects\__Programming_Projects\hobbyist\ReplaceInString\ConsoleApp3\obj\Debug\ReplaceInString.csproj.AssemblyReference.cache
+D:\Projects\__Programming_Projects\hobbyist\ReplaceInString\ConsoleApp3\obj\Debug\ReplaceInString.csproj.CoreCompileInputs.cache
+D:\Projects\__Programming_Projects\hobbyist\ReplaceInString\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Projects\__Programming_Projects\hobbyist\ReplaceInString\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
